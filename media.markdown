@@ -1,5 +1,6 @@
 ---
 layout: page
-title: About
+title: Media
 subtitle: Aikido of Red Bank 
 ---
+About...

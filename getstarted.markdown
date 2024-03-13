@@ -1,5 +1,5 @@
 ---
 layout: page
-title: About
+title: Get Started
 subtitle: Aikido of Red Bank 
 ---

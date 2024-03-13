@@ -1,5 +1,6 @@
 ---
 layout: page
-title: About
+title: Adult Classes
 subtitle: Aikido of Red Bank 
 ---
+About...

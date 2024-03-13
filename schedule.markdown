@@ -1,5 +1,6 @@
 ---
 layout: page
-title: About
+title: Schedule
 subtitle: Aikido of Red Bank 
 ---
+About...
