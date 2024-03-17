@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: instructor
 title: John Murdoch
 share-title: John Murdoch, Instructor at Aikido of Red Bank
 subtitle: Sandan, Fukushidoin
+instructor-image: "/assets/img/instructors/johnm.jpg"
+full-width: true
 ---
 
 ### Sandan (3rd degree black belt), Fukushidoin (certified "Assistant Instructor" by the U.S. Aikido Federation
@@ -17,4 +19,6 @@ Moreover, John is a devoted practitioner of internal arts under his teacher Jaim
 
 John seeks to discover both the physical as well as the philosophical principles of Aikido while bringing a practical approach to his practice. Such pursuit includes daily solo training in “aiki” principles to condition the human body.
 
-John is a shareholder at the Red Bank law firm of Zager Fuchs, PC where he practices corporate law and health law. 
+John is a shareholder at the Red Bank law firm of Zager Fuchs, PC where he practices corporate law and health law.
+
+[< Back to instructors](/instructors/)

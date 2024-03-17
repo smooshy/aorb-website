@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Instructors
-subtitle: Aikido of Red Bank 
+subtitle: Aikido of Red Bank
 ---
 
 Aikido of Red Bank has 15 excellent instructors, who teach Aikido [classes every day of the week](/schedule/):
