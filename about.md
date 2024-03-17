@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Instructors
+title: About
 subtitle: Aikido of Red Bank 
 ---
-About...G
+
