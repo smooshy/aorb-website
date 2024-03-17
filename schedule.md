@@ -4,7 +4,9 @@ title: Full Schedule
 subtitle: Aikido of Red Bank
 full-width: true
 ---
-Aikido of Red Bank offers classes 7 days a week, open to all levels and ages. Plus additional, separate programs in Battodo, Yoga, Tai Chi, and Kali Escrima:
+Aikido of Red Bank offers classes 7 days a week, open to all levels and ages. Plus additional, separate programs in Battodo, Yoga, Tai Chi, and Kali Escrima.
+
+Schedules available for [beginners](beginner/) and [children](children/).
 
 ### Monday
 

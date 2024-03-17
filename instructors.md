@@ -14,6 +14,7 @@ Aikido of Red Bank has 15 excellent instructors, who teach Aikido [classes every
 * [Michael Fitzpatrick](michael-fitzpatrick/), Yondan, Fukushidoin
 * [Lee Alexander](lee-alexander/), Yondan, Fukushidoin
 * [Matt Wavro](matt-wavro/), Yondan, Fukushidoin
+* [Stan Rawrysz](stan-rawrysz/), Yondan
 * [David Breniak](david-breniak/), Sandan
 * [John Murdoch](john-murdoch/), Sandan, Fukushidoin
 * [Marie Torrecampo-Shaffer](marie-torrecampo-shaffer/), Sandan, Fukushidoin
