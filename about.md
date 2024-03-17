@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+share-title: About Aikido of Red Bank
 subtitle: Aikido of Red Bank
 ---
 

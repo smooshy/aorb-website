@@ -1,0 +1,86 @@
+---
+layout: page
+title: Aikido of Red Bank
+share-title: Aikido of Red Bank
+cover-img: ["assets/img/covers/HSenseiYamada.jpg", "assets/img/covers/HTheresaJason.jpg", "assets/img/covers/HLynneHarvey.jpg", "assets/img/covers/HJohnMaestro.jpg", "assets/img/covers/Hkids.jpg", "assets/img/covers/HChrisMarie.jpg"]
+---
+
+<h2>Contact Us</h2>
+
+<p>We would be happy to answer any questions you may have (including pricing).</p>
+
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
+onload="if(submitted) {
+	var ack = document.getElementById('hidden_acnowledge');
+	ack.style.display = 'block';
+	ack.style.color = 'red';
+	if(document.getElementById('questions').value.includes('http://') || document.getElementById('questions').value.includes('https://')) {
+		ack.innerHTML = '<center> Invalid question(s).  Submission not accepted.  Please correct.</center>';
+	} else if(document.getElementById('name').value.includes('https://')) {
+		ack.innerHTML = '<center>Invalid name.  Submission not accepted.  Please correct.</center>';
+	} else if(document.getElementById('email').value.includes('C:\\Frazes.txt')) {
+		ack.innerHTML = '<center>Invalid email.  Submission not accepted.  Please correct.</center>';
+	} else if(document.getElementById('phone').value.length > 15) {
+		ack.innerHTML = '<center>Invalid phone.  Submission not accepted.  Please correct.</center>';
+//					} else if(!document.getElementById('recaptcha').checked) {
+//						ack.innerHTML = '<center>The \'I am a human\' checkbox MUST be checked.  Submission not accepted.  Please correct.</center>';
+	} else {
+		ack.style.color = '#68482B';
+		ack.innerHTML = '<center>' + document.getElementById('name').value + ', your question(s) have been submitted.  Expect a response shortly.</center>';
+		document.getElementById('name').value = '';
+		document.getElementById('questions').value = '';
+		document.getElementById('email').value = '';
+		document.getElementById('phone').value = '';
+		document.getElementById('fdiv').style.display = 'none';
+	}
+}
+"></iframe>
+
+<span id="fdiv">
+	<form action="https://docs.google.com/forms/d/e/1FAIpQLSdjzEv1CUXEMwk23tAK_LS4OYWxs1Up3vPX1tyfd032g1o2hg/formResponse" method="POST" id="mG61Hd" target="hidden_iframe" onsubmit="submitted=true;" class="">
+	<div class="container">
+		<div class="row">
+			<div class="col-2">
+				<label for="questions">Questions</label>
+			</div>
+			<div class="col-10">
+				<textarea class="w-100" rows="4" id="questions" name="entry.690609083" type="text" required></textarea>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-2">
+				<label for="name">Name</label>
+			</div>
+			<div class="col">
+				<input class="w-75" id="name" name="entry.1970963924" type="text" required>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-2">
+				<label for="email">Email</label>
+			</div>
+			<div class="col">
+				<input class="w-75" id="email" name="entry.1397963826" type="text">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-2">
+				<label for="phone">Phone</label>
+			</div>
+			<div class="col">
+				<input class="w-75" id="phone" name="entry.1520240330" type="text">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-2"></div>
+			<div class="col">
+				<button id="sendbutton">Send</button>
+			</div>
+		</div>
+	</div>
+	</form>
+</span>
+<div id="hidden_acnowledge" style="display:none;">
+	Acknowledged
+</div>

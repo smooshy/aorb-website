@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Instructors
+share-title: Instructors at Aikido of Red Bank
 subtitle: Aikido of Red Bank
 ---
 

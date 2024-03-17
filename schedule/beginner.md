@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Beginner Schedule
+share-title: Beginner Aikido Schedule at Aikido of Red Bank
 subtitle: Aikido of Red Bank
 full-width: true
 ---

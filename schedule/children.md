@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Children's Schedule
+share-title: Children's Aikido Schedule at Aikido of Red Bank
 subtitle: Aikido of Red Bank
 full-width: true
 ---
