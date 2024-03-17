@@ -3,7 +3,7 @@ layout: instructor
 title: Lee Alexander
 share-title: Lee Alexander, Instructor at Aikido of Red Bank
 subtitle: Yondan, Fukushidoin
-instructor-image: "/assets/img/instructors/lee.jpg"
+instructor-image: "../../assets/img/instructors/lee.jpg"
 full-width: true
 ---
 
@@ -17,4 +17,4 @@ In 2019 he underwent two total knee replacements. After extensive rehab, he reco
 
 He has also been training in Kuntaw Kali Kruzada under Maestro Rich Acosta since 2013. In addition, he has been studying "Battodo", a Japanese sword art, under Sensei Russ Gordon since 2015. He is an active woodworker and teaches woodturning in his shop. He plays golf any time the weather permits, practices yoga daily, enjoys fine food and beverages, and has entirely too much fun.
 
-[< Back to instructors](/instructors/)
+[< Back to instructors](../)

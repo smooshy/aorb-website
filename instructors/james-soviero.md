@@ -3,7 +3,7 @@ layout: instructor
 title: James Soviero
 share-title: James Soviero, Chief Instructor at Aikido of Red Bank
 subtitle: Rokudan, Shidoin
-instructor-image: "/assets/img/instructors/soviero2.jpg"
+instructor-image: "../../assets/img/instructors/soviero2.jpg"
 full-width: true
 ---
 
@@ -13,4 +13,4 @@ Jim Soviero has been practicing and teaching Aikido for over 30 years. He taught
 
 Jim regularly trains at seminars around the country with some of the world's leading teachers. A Red Bank native, he founded Aikido of Red Bank in 2002, a member dojo of the United States Aikido Federation. He continues his practice as a student as well as instructor under the direction of Yoshimitsu Yamada Shihan. He is a graduate of Montclair State University and of Red Bank Catholic High School.
 
-[< Back to instructors](/instructors/)
+[< Back to instructors](../)

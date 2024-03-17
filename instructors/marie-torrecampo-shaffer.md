@@ -3,7 +3,7 @@ layout: instructor
 title: Marie Torrecampo-Shaffer
 share-title: Marie Torrecampo-Shaffer, Instructor at Aikido of Red Bank
 subtitle: Sandan
-instructor-image: "/assets/img/instructors/JimmyMarie.jpg"
+instructor-image: "../../assets/img/instructors/JimmyMarie.jpg"
 full-width: true
 ---
 
@@ -13,4 +13,4 @@ Marie began practicing aikido in 2004 at Aikido Schools of New Jersey with Richa
 
 Marie hopes to honor Jimmy's legacy and memory by leading his classes and continuing to practice, study, and attend various seminars. She currently works professionally as a graphic artist with a degree in visual communications.
 
-[< Back to instructors](/instructors/)
+[< Back to instructors](../)

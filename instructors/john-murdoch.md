@@ -3,7 +3,7 @@ layout: instructor
 title: John Murdoch
 share-title: John Murdoch, Instructor at Aikido of Red Bank
 subtitle: Sandan, Fukushidoin
-instructor-image: "/assets/img/instructors/johnm.jpg"
+instructor-image: "../../assets/img/instructors/johnm.jpg"
 full-width: true
 ---
 
@@ -21,4 +21,4 @@ John seeks to discover both the physical as well as the philosophical principles
 
 John is a shareholder at the Red Bank law firm of Zager Fuchs, PC where he practices corporate law and health law.
 
-[< Back to instructors](/instructors/)
+[< Back to instructors](../)
