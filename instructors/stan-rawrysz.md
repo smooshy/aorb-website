@@ -11,4 +11,4 @@ full-width: true
 
 TODO
 
-[< Back to instructors](../)
+[< Back to instructors]({{ 'instructors' | relative_url }})

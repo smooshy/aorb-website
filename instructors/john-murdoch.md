@@ -21,4 +21,4 @@ John seeks to discover both the physical as well as the philosophical principles
 
 John is a shareholder at the Red Bank law firm of Zager Fuchs, PC where he practices corporate law and health law.
 
-[< Back to instructors](../)
+[< Back to instructors]({{ 'instructors' | relative_url }})

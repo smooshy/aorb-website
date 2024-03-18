@@ -13,4 +13,4 @@ Marie began practicing aikido in 2004 at Aikido Schools of New Jersey with Richa
 
 Marie hopes to honor Jimmy's legacy and memory by leading his classes and continuing to practice, study, and attend various seminars. She currently works professionally as a graphic artist with a degree in visual communications.
 
-[< Back to instructors](../)
+[< Back to instructors]({{ 'instructors' | relative_url }})

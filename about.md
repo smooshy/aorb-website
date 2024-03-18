@@ -5,7 +5,7 @@ share-title: About Aikido of Red Bank
 subtitle: Aikido of Red Bank
 ---
 
-Aikido – the “way to harmony with spirit” - strives ideally to avoid an attack altogether, combining awareness of self and situation, non-confrontational body posture and calm demeanor. But if an attack should occur, Aikido teaches how to effectively defend oneself while also protecting those attacking. This is the practice of true Budo, acknowledging the preciousness of all life. The techniques of Aikido are characterized by an emphasis on getting off the line of attack, blending with and redirecting an attacker's energy, taking their balance and finishing with a throw and/or a pin. It is not a fighting art but instead a way to defuse aggression through a peaceful yet powerful art form.
+Aikido – the "way to harmony with spirit" - strives ideally to avoid an attack altogether, combining awareness of self and situation, non-confrontational body posture and calm demeanor. But if an attack should occur, Aikido teaches how to effectively defend oneself while also protecting those attacking. This is the practice of true Budo, acknowledging the preciousness of all life. The techniques of Aikido are characterized by an emphasis on getting off the line of attack, blending with and redirecting an attacker's energy, taking their balance and finishing with a throw and/or a pin. It is not a fighting art but instead a way to defuse aggression through a peaceful yet powerful art form.
 
 ## Origin
 
