@@ -3,7 +3,7 @@ layout: instructor
 title: David Breniak
 share-title: David Breniak, Instructor at Aikido of Red Bank
 subtitle: Sandan
-instructor-image: "../../assets/img/instructors/davidb.jpg"
+instructor-image: '/assets/img/instructors/davidb.jpg'
 full-width: true
 ---
 

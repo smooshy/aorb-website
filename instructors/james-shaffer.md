@@ -3,7 +3,7 @@ layout: instructor
 title: James Shaffer
 share-title: James Shaffer, Instructor at Aikido of Red Bank
 subtitle: Godan, Shidoin
-instructor-image: "../../assets/img/instructors/jims.jpg"
+instructor-image: '/assets/img/instructors/jims.jpg'
 full-width: true
 ---
 

@@ -3,7 +3,7 @@ layout: instructor
 title: Jerry Curiale
 share-title: Jerry Curiale, Instructor at Aikido of Red Bank
 subtitle: Godan
-instructor-image: "../../assets/img/instructors/jerry.jpg"
+instructor-image: '/assets/img/instructors/jerry.jpg'
 full-width: true
 ---
 

@@ -3,7 +3,7 @@ layout: instructor
 title: Stan Lumish
 share-title: Stan Lumish, Instructor at Aikido of Red Bank
 subtitle: Nidan
-instructor-image: "../../assets/img/instructors/stan.jpg"
+instructor-image: '/assets/img/instructors/stan.jpg'
 full-width: true
 ---
 

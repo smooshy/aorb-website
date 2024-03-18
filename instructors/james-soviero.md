@@ -3,7 +3,7 @@ layout: instructor
 title: James Soviero
 share-title: James Soviero, Chief Instructor at Aikido of Red Bank
 subtitle: Rokudan, Shidoin
-instructor-image: "../../assets/img/instructors/soviero2.jpg"
+instructor-image: '/assets/img/instructors/soviero2.jpg'
 full-width: true
 ---
 

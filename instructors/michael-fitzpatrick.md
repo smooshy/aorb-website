@@ -3,7 +3,7 @@ layout: instructor
 title: Michael Fitzpatrick
 share-title: Michael Fitzpatrick, Instructor at Aikido of Red Bank
 subtitle: Yondan, Fukushidoin
-instructor-image: "../../assets/img/instructors/michael.jpg"
+instructor-image: '/assets/img/instructors/michael.jpg'
 full-width: true
 ---
 

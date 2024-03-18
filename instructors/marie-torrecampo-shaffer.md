@@ -3,7 +3,7 @@ layout: instructor
 title: Marie Torrecampo-Shaffer
 share-title: Marie Torrecampo-Shaffer, Instructor at Aikido of Red Bank
 subtitle: Sandan
-instructor-image: "../../assets/img/instructors/JimmyMarie.jpg"
+instructor-image: '/assets/img/instructors/JimmyMarie.jpg'
 full-width: true
 ---
 

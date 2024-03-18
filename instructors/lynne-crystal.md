@@ -3,7 +3,7 @@ layout: instructor
 title: Lynne Crystal
 share-title: Lynne Crystal, Instructor at Aikido of Red Bank
 subtitle: Yondan, Fukushidoin
-instructor-image: "../../assets/img/instructors/lynne.jpg"
+instructor-image: '/assets/img/instructors/lynne.jpg'
 full-width: true
 ---
 

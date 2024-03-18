@@ -3,7 +3,7 @@ layout: instructor
 title: Jason Khurdan
 share-title: Jason Khurdan, Instructor at Aikido of Red Bank
 subtitle: Shodan
-instructor-image: "../../assets/img/instructors/jason.jpg"
+instructor-image: '/assets/img/instructors/jason.jpg'
 full-width: true
 ---
 

@@ -5,10 +5,10 @@ layout: page
 <div class="container">
     <div class="row">
         <div class="col-4">
-            <img src="{{ page.instructor-image }}" alt="{{ page.title }}" />
+            <img src="{{ page.instructor-image | relative_url }}" alt="{{ page.title }}" />
         </div>
         <div class="col-8">
             {{ content }}
         </div>
-    </div>    
+    </div>
 </div>

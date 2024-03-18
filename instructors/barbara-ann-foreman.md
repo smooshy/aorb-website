@@ -3,7 +3,7 @@ layout: instructor
 title: Barbara Ann Foreman
 share-title: Barbara Ann Foreman, Instructor at Aikido of Red Bank
 subtitle: Nidan
-instructor-image: "../../assets/img/instructors/barbara.jpg"
+instructor-image: '/assets/img/instructors/barbara.jpg'
 full-width: true
 ---
 

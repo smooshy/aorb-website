@@ -3,7 +3,7 @@ layout: instructor
 title: John Murdoch
 share-title: John Murdoch, Instructor at Aikido of Red Bank
 subtitle: Sandan, Fukushidoin
-instructor-image: "../../assets/img/instructors/johnm.jpg"
+instructor-image: '/assets/img/instructors/johnm.jpg'
 full-width: true
 ---
 

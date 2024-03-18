@@ -3,7 +3,7 @@ layout: instructor
 title: Lee Alexander
 share-title: Lee Alexander, Instructor at Aikido of Red Bank
 subtitle: Yondan, Fukushidoin
-instructor-image: "../../assets/img/instructors/lee.jpg"
+instructor-image: '/assets/img/instructors/lee.jpg'
 full-width: true
 ---
 

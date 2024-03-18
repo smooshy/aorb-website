@@ -3,7 +3,7 @@ layout: instructor
 title: Chris Ednie
 share-title: Chris Ednie, Instructor at Aikido of Red Bank
 subtitle: Godan
-instructor-image: "../../assets/img/instructors/chris.jpg"
+instructor-image: '/assets/img/instructors/chris.jpg'
 full-width: true
 ---
 

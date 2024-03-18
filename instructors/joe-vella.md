@@ -3,7 +3,7 @@ layout: instructor
 title: Joe Vella
 share-title: Joe Vella, Instructor at Aikido of Red Bank
 subtitle: Nidan
-instructor-image: "../../assets/img/instructors/joe.jpg"
+instructor-image: '/assets/img/instructors/joe.jpg'
 full-width: true
 ---
 

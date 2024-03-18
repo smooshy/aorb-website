@@ -3,7 +3,7 @@ layout: instructor
 title: Matt Wavro
 share-title: Matt Wavro, Instructor at Aikido of Red Bank
 subtitle: Yondan, Fukushidoin
-instructor-image: "../../assets/img/instructors/matt.jpg"
+instructor-image: '/assets/img/instructors/matt.jpg'
 full-width: true
 ---
 
