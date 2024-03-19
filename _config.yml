@@ -23,6 +23,7 @@ navbar-links:
     - Full Schedule: "schedule"
     - Beginner Aikido: "schedule/beginner"
     - Children's Aikido: "schedule/children"
+    - Events: "events"
     - Calendar: "calendar"
   About: "about"
   Get Started: "getstarted"
