@@ -12,7 +12,7 @@ Aikido of Red Bank offers classes 7 days a week appropriate for a beginner.
 
 ### Monday
 
-6:00 pm - 7:00 pm | Aikido - Basics | [Soviero Sensei]({{ 'instructors/james-soviero' | relative_url }})
+6:00 pm - 7:00 pm | Aikido - Basics - **Recommended** | [Soviero Sensei]({{ 'instructors/james-soviero' | relative_url }})
 
 ### Tuesday
 
