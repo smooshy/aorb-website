@@ -32,7 +32,7 @@ subtitle: Aikido of Red Bank
 * [Emily's 6th Kyu test, May 2023](https://youtu.be/BXca0NxeznE) ... [Better video](https://youtu.be/iPre65KfCD4)
 * [Cynthia's Shodan test, May 2023](https://youtu.be/zM4eGr2kVO0) ... [Better video](https://youtu.be/VUF6IZA971k)
 * [Chris's 6th Kyu test, May 2023](https://youtu.be/zEyi0eFvfwM)
-* [Chris's Shodan test, October 2023](https://youtu.be/DIDOJoOP3mU) ... [Slightly better video](https://www.youtube.com/embed/EHWvV4XDVIk)
+* [Chris's Shodan test, October 2023](https://youtu.be/DIDOJoOP3mU) ... [Slightly better video](https://youtu.be/EHWvV4XDVIk)
 * [Fiona's 6th Kyu test, November 2023](https://youtu.be/ngFW7rxvCEo)
 * [Emily's 5th Kyu test, November 2023](https://youtu.be/CDMZxxSxip4)
 * [Anthony, Anya and TJ's 4th Kyu test, November 2023](https://youtu.be/7nAVwz8WDhI)
@@ -44,498 +44,494 @@ subtitle: Aikido of Red Bank
 	<tr>
 		<td>Jan 18, 2018</td>
 		<td><UL>
-			* [Katatetori Kokyuho Backstretch from Tenkan](https://youtu.be/6UhJdiCUykY)
+			<li><a href="https://youtu.be/6UhJdiCUykY">Katatetori Kokyuho Backstretch from Tenkan</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>Jan 25, 2018</td>
 		<td><UL>
-			* [Katatetori Tenkan, Tai no henko](https://youtu.be/6jmKHltmME8)
-			* [Ushiro Tekubitori Kokyuho Backfall](https://youtu.be/NOsJTqJPXYY)
-			* [Ushiro Tekubitori Iriminage](https://youtu.be/CAhLNcEUjgE)
-			* [Ushiro Tekubitori Sankyo Omote](https://youtu.be/a21NmOIWx1I)
+			<li><a href="https://youtu.be/6jmKHltmME8">Katatetori Tenkan, Tai no henko</a></li>
+			<li><a href="https://youtu.be/NOsJTqJPXYY">Ushiro Tekubitori Kokyuho Backfall</a></li>
+			<li><a href="https://youtu.be/CAhLNcEUjgE">Ushiro Tekubitori Iriminage</a></li>
+			<li><a href="https://youtu.be/a21NmOIWx1I">Ushiro Tekubitori Sankyo Omote</a></li>
 		</UL></td>
 		</tr>
 	<tr>
 		<td>Feb 1, 2018</td>
 		<td><UL>
-			* [Katatetori Tenkan, Tai no henko](https://youtu.be/rRiPoqAe0xg)
-			* [Katatetori Kokyuho](https://youtu.be/1koNk9sU1nQ)
-			* [Katatetori Kokyuho Ikkyo](https://youtu.be/KB-Eu2SGGN0)
-			* [Katatetori Kokyuho Ikkyo](https://youtu.be/sg0az5jSIn4)
-			* [Katatetori Shihonage](https://youtu.be/XoMDdsTF520)
+			<li><a href="https://youtu.be/rRiPoqAe0xg">Katatetori Tenkan, Tai no henko</a></li>
+			<li><a href="https://youtu.be/1koNk9sU1nQ">Katatetori Kokyuho</a></li>
+			<li><a href="https://youtu.be/KB-Eu2SGGN0">Katatetori Kokyuho Ikkyo</a></li>
+			<li><a href="https://youtu.be/sg0az5jSIn4">Katatetori Kokyuho Ikkyo</a></li>
+			<li><a href="https://youtu.be/XoMDdsTF520">Katatetori Shihonage</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>Feb 15, 2018</td>
 		<td><UL>
-			* [Swari Waza Shomenuchi Ikkyo Omote and Ura](https://youtu.be/qZbuZXoU8B8)
-			* [Shomenuchi Ikkyo Omote and Ura](https://youtu.be/Hcz1qKq12xA)
-			* [Henka Waza from Shomenuchi Ikkyo Omote](https://youtu.be/z-g-ZE_ki2A)
-			* [Henka Waza from Shomenuchi Ikkyo Ura](https://youtu.be/Es8MDZTBm58)
+			<li><a href="https://youtu.be/qZbuZXoU8B8">Swari Waza Shomenuchi Ikkyo Omote and Ura</a></li>
+			<li><a href="https://youtu.be/Hcz1qKq12xA">Shomenuchi Ikkyo Omote and Ura</a></li>
+			<li><a href="https://youtu.be/z-g-ZE_ki2A">Henka Waza from Shomenuchi Ikkyo Omote</a></li>
+			<li><a href="https://youtu.be/Es8MDZTBm58">Henka Waza from Shomenuchi Ikkyo Ura</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>Feb 22, 2018</td>
 		<td><UL>
-			* [Tsuki Kokyuho Backstretch](https://youtu.be/2xFKT9uQYYE)
-			* [Tsuki Iriminage](https://youtu.be/4DyE9tqsS6w)
-			* [Tsuki Nikkyo Ura](https://youtu.be/-XhMjK_-nCY)
+			<li><a href="https://youtu.be/2xFKT9uQYYE">Tsuki Kokyuho Backstretch</a></li>
+			<li><a href="https://youtu.be/4DyE9tqsS6w">Tsuki Iriminage</a></li>
+			<li><a href="https://youtu.be/-XhMjK_-nCY">Tsuki Nikkyo Ura</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>March 1, 2018</td>
 		<td><UL>
-			* [Katatori Sumi-Otoshi](https://youtu.be/--0MRMwa5OM)
-			* [Katatori Shihonage, Tenshin](https://youtu.be/PmWB6_9JfrU)
-			* [Katatori Ikkyo Ura](https://youtu.be/2Q76Yg_JsgY)
+			<li><a href="https://youtu.be/--0MRMwa5OM">Katatori Sumi-Otoshi</a></li>
+			<li><a href="https://youtu.be/PmWB6_9JfrU">Katatori Shihonage, Tenshin</a></li>
+			<li><a href="https://youtu.be/2Q76Yg_JsgY">Katatori Ikkyo Ura</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>March 8, 2018</td>
 		<td><UL>
-			* [Yokomenuchi Kokyuho Backstretch](https://youtu.be/oOurN6sNW2k)
-			* [Shihonage, Omote and Ura](https://youtu.be/oWZWFvHCebo)
-			* [Yokomenuchi Hijikime](https://youtu.be/0iaqNKaaz0Y)
+			<li><a href="https://youtu.be/oOurN6sNW2k">Yokomenuchi Kokyuho Backstretch</a></li>
+			<li><a href="https://youtu.be/oWZWFvHCebo">Shihonage, Omote and Ura</a></li>
+			<li><a href="https://youtu.be/0iaqNKaaz0Y">Yokomenuchi Hijikime</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>March 15, 2018</td>
 		<td><UL>
-			* [Yokomenuchi Irimi](https://youtu.be/7R00mupmJok)
-			* [Yokomenuchi Iriminage](https://youtu.be/uDQAhww3f7g)
-			* [Yokomenuchi Shihonage Ura](https://youtu.be/kggiEuk0rwM)
-			* [Yokomenuchi Kokyuho](https://youtu.be/Lh-A-Mfs2aA)
+			<li><a href="https://youtu.be/7R00mupmJok">Yokomenuchi Irimi</a></li>
+			<li><a href="https://youtu.be/uDQAhww3f7g">Yokomenuchi Iriminage</a></li>
+			<li><a href="https://youtu.be/kggiEuk0rwM">Yokomenuchi Shihonage Ura</a></li>
+			<li><a href="https://youtu.be/Lh-A-Mfs2aA">Yokomenuchi Kokyuho</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>March 22, 2018</td>
 		<td><UL>
-			* [Katatetori Tenkan, Tai no henko](https://youtu.be/W9awl8oWIM8)
-			* [Katatetori Nikkyo Ura](https://youtu.be/h1ZORTJ0gO0)
+			<li><a href="https://youtu.be/W9awl8oWIM8">Katatetori Tenkan, Tai no henko</a></li>
+			<li><a href="https://youtu.be/h1ZORTJ0gO0">Katatetori Nikkyo Ura</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>March 29, 2018</td>
 		<td><UL>
-			* [Morotetori Kotegaeshi](https://youtu.be/zeG-9efBAxs)
+			<li><a href="https://youtu.be/zeG-9efBAxs">Morotetori Kotegaeshi</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>April 5, 2018</td>
 		<td><UL>
-			* [Yokomenuchi Shihonage, Omote and Ura](https://www.youtube.com/embed/jkYMwLs2Ncc)
-			* [Yokomenuchi Iriminage, Omote and Ura](https://www.youtube.com/embed/5mEos2Bu_KA)
+			<li><a href="https://youtu.be/jkYMwLs2Ncc">Yokomenuchi Shihonage, Omote and Ura</a></li>
+			<li><a href="https://youtu.be/5mEos2Bu_KA">Yokomenuchi Iriminage, Omote and Ura</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>April 12, 2018</td>
 		<td><UL>
-			* [Shomenuchi Kokyuho Backstretch](https://www.youtube.com/embed/4pTdTVdMHYQ)
-			* [Shomenuchi Iriminage](https://www.youtube.com/embed/-gy1A3mizdY)
-			* [Shomenuchi Omote Iriminage](https://www.youtube.com/embed/tJxaUQwgAa0)
+			<li><a href="https://youtu.be/4pTdTVdMHYQ">Shomenuchi Kokyuho Backstretch</a></li>
+			<li><a href="https://youtu.be/-gy1A3mizdY">Shomenuchi Iriminage</a></li>
+			<li><a href="https://youtu.be/tJxaUQwgAa0">Shomenuchi Omote Iriminage</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>April 19, 2018</td>
 		<td><UL>
-			* [Tsuki Tenkan, Tai no henko](https://www.youtube.com/embed/I6wEPxR29gM)
-			* [Tsuki Kokyuho, from Tenkan](https://www.youtube.com/embed/co6emrgf74A)
-			* [Tsuki Kokyuho, from Tenkan (addendum)](https://www.youtube.com/embed/9OZZW-ODZ3U)
-			* [Tsuki Kokyuho, from Tenkan](https://www.youtube.com/embed/kzRe0BS6zYQ)
-			* [Tsuki Iriminage](https://www.youtube.com/embed/aGLXRYoN5bI)
+			<li><a href="https://youtu.be/I6wEPxR29gM">Tsuki Tenkan, Tai no henko</a></li>
+			<li><a href="https://youtu.be/co6emrgf74A">Tsuki Kokyuho, from Tenkan</a></li>
+			<li><a href="https://youtu.be/9OZZW-ODZ3U">Tsuki Kokyuho, from Tenkan (addendum)</a></li>
+			<li><a href="https://youtu.be/kzRe0BS6zYQ">Tsuki Kokyuho, from Tenkan</a></li>
+			<li><a href="https://youtu.be/aGLXRYoN5bI">Tsuki Iriminage</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>June 7, 2018</td>
 		<td><UL>
-			* [Suwari Waza Katatori Sankyo, Omote and Ura](https://www.youtube.com/embed/Y0xxstzW8Lg )
-			* [Katatori Sankyo-nage](https://www.youtube.com/embed/GDsK3LnXO4k)
+			<li><a href="https://youtu.be/Y0xxstzW8Lg ">Suwari Waza Katatori Sankyo, Omote and Ura</a></li>
+			<li><a href="https://youtu.be/GDsK3LnXO4k">Katatori Sankyo-nage</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>June 14, 2018</td>
 		<td><UL>
-			* [Katatetori Kokyuho Backstretch, from Tenshin](https://www.youtube.com/embed/kKD8CnWE7Pc)
-			* [Yokomenuchi Shihonage, Omote and Ura](https://www.youtube.com/embed/fR0LhQY_qu4)
-			* [Yokomenuchi Kokyu-nage](https://www.youtube.com/embed/kfTBS6yFMMI)
+			<li><a href="https://youtu.be/kKD8CnWE7Pc">Katatetori Kokyuho Backstretch, from Tenshin</a></li>
+			<li><a href="https://youtu.be/fR0LhQY_qu4">Yokomenuchi Shihonage, Omote and Ura</a></li>
+			<li><a href="https://youtu.be/kfTBS6yFMMI">Yokomenuchi Kokyu-nage</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>August 16, 2018</td>
 		<td><UL>
-			* [Morotetori Kokyuho](https://www.youtube.com/embed/BDvYC28MVEY)
-			* [Morotetori Kotegaeshi](https://www.youtube.com/embed/dg7ndz69pHg)
-			* [Morotetori Sankyo Omote](https://www.youtube.com/embed/SBjm4MrkEtg)
+			<li><a href="https://youtu.be/BDvYC28MVEY">Morotetori Kokyuho</a></li>
+			<li><a href="https://youtu.be/dg7ndz69pHg">Morotetori Kotegaeshi</a></li>
+			<li><a href="https://youtu.be/SBjm4MrkEtg">Morotetori Sankyo Omote</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>August 23, 2018</td>
 		<td><UL>
-			* [Katatetori Tenkan, Tai no henko](https://www.youtube.com/embed/Pk9R3hZ6Oek)
-			* [Katatetori Kokyuho](https://www.youtube.com/embed/5Gq5Em30t6Y)
-			* [Katatetori Kotegaeshi](https://www.youtube.com/embed/T6eoUYFHxvg)
+			<li><a href="https://youtu.be/Pk9R3hZ6Oek">Katatetori Tenkan, Tai no henko</a></li>
+			<li><a href="https://youtu.be/5Gq5Em30t6Y">Katatetori Kokyuho</a></li>
+			<li><a href="https://youtu.be/T6eoUYFHxvg">Katatetori Kotegaeshi</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>August 30, 2018</td>
 		<td><UL>
-			* [Katatetori Uchi Kaiten](https://www.youtube.com/embed/WJcz0-Nrqi4)
-			* [Katatetori Soto Tenkan](https://www.youtube.com/embed/vg2USyCEsLk)
-			* [Katatetori Katagatame, Uchi and Soto Mawari](https://www.youtube.com/embed/wUxNMmPDgdM)
-			* [Katatetori Kaiten-nage, Uchi and Soto Mawari](https://www.youtube.com/embed/KEkV4qTvf24)
+			<li><a href="https://youtu.be/WJcz0-Nrqi4">Katatetori Uchi Kaiten</a></li>
+			<li><a href="https://youtu.be/vg2USyCEsLk">Katatetori Soto Tenkan</a></li>
+			<li><a href="https://youtu.be/wUxNMmPDgdM">Katatetori Katagatame, Uchi and Soto Mawari</a></li>
+			<li><a href="https://youtu.be/KEkV4qTvf24">Katatetori Kaiten-nage, Uchi and Soto Mawari</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>September 6, 2018</td>
 		<td><UL>
-			* [Ryokatadori Kaiten](https://www.youtube.com/embed/WSs2jwMOUw0)
-			* [Ryokatadori Nikkyo Omote](https://www.youtube.com/embed/eq5fTQ5PF7M)
-			* [Ryokatadori Iriminage Variation](https://www.youtube.com/embed/UBRim1iq830)
-			* [Kokyunage](https://www.youtube.com/embed/U2LyUbXFUZQ)
+			<li><a href="https://youtu.be/WSs2jwMOUw0">Ryokatadori Kaiten</a></li>
+			<li><a href="https://youtu.be/eq5fTQ5PF7M">Ryokatadori Nikkyo Omote</a></li>
+			<li><a href="https://youtu.be/UBRim1iq830">Ryokatadori Iriminage Variation</a></li>
+			<li><a href="https://youtu.be/U2LyUbXFUZQ">Kokyunage</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>September 13, 2018</td>
 		<td><UL>
-			* [Katatetori Tenkan, Tai no henko](https://www.youtube.com/embed/gQe0q04ptHk)
-			* [Katatetori Iriminage](https://www.youtube.com/embed/HLapkZQalBk)
-			* [Katatetori Nikkyo Ura](https://www.youtube.com/embed/oYYR3T6n8mk)
-			* [Katatetori Sumi-otoshi](https://www.youtube.com/embed/zVz4QO3ESHU)
+			<li><a href="https://youtu.be/gQe0q04ptHk">Katatetori Tenkan, Tai no henko</a></li>
+			<li><a href="https://youtu.be/HLapkZQalBk">Katatetori Iriminage</a></li>
+			<li><a href="https://youtu.be/oYYR3T6n8mk">Katatetori Nikkyo Ura</a></li>
+			<li><a href="https://youtu.be/zVz4QO3ESHU">Katatetori Sumi-otoshi</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>September 20, 2018</td>
 		<td><UL>
-			* [Shomenuchi Kokyuho Backstretch](https://www.youtube.com/embed/Fu9Juo3M3v0)
-			* [Shomenuchi Sankyo, Omota & Ura](https://www.youtube.com/embed/0iFDv1vc8x8)
-			* [Shomenuchi Sankyo, Omota & Ura Addendum](https://www.youtube.com/embed/c-ZdO-GCI3U)
-			* [Shomenuchi Sankyo Maki-otoshi](https://www.youtube.com/embed/Smfj4_xcKLU)
+			<li><a href="https://youtu.be/Fu9Juo3M3v0">Shomenuchi Kokyuho Backstretch</a></li>
+			<li><a href="https://youtu.be/0iFDv1vc8x8">Shomenuchi Sankyo, Omota & Ura</a></li>
+			<li><a href="https://youtu.be/c-ZdO-GCI3U">Shomenuchi Sankyo, Omota & Ura Addendum</a></li>
+			<li><a href="https://youtu.be/Smfj4_xcKLU">Shomenuchi Sankyo Maki-otoshi</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>September 27, 2018</td>
 		<td><UL>
-			* [Katamenuchi Irimi](https://www.youtube.com/embed/pVvWOVsqJzQ)
-			* [Katamenuchi Kotegaeshi](https://www.youtube.com/embed/3EqXaJkh1nM)
-			* [Katamenuchi Nikkyo Ura](https://www.youtube.com/embed/L2KCJbpn-No)
-			* [Katamenuchi Kokyunage](https://www.youtube.com/embed/WvB6iUyl420)
+			<li><a href="https://youtu.be/pVvWOVsqJzQ">Katamenuchi Irimi</a></li>
+			<li><a href="https://youtu.be/3EqXaJkh1nM">Katamenuchi Kotegaeshi</a></li>
+			<li><a href="https://youtu.be/L2KCJbpn-No">Katamenuchi Nikkyo Ura</a></li>
+			<li><a href="https://youtu.be/WvB6iUyl420">Katamenuchi Kokyunage</a></li>
 		</UL></td>
 	</tr>
-
 	<tr>
 		<td>October 4, 2018</td>
 		<td><UL>
-			* [Katatetori Tenkan, Tai no henko](https://www.youtube.com/embed/l2lRoSjjPEE)
-			* [Katatetori Kokyuho](https://www.youtube.com/embed/ksRakV3lzIM)
-			* [Katatetori Kotegaeshi](https://www.youtube.com/embed/akWHMuRE_ao)
-			* [Henka Waza, Kotegaeshi into Ikkyo](https://www.youtube.com/embed/68dPf7vIpW8)
+			<li><a href="https://youtu.be/l2lRoSjjPEE">Katatetori Tenkan, Tai no henko</a></li>
+			<li><a href="https://youtu.be/ksRakV3lzIM">Katatetori Kokyuho</a></li>
+			<li><a href="https://youtu.be/akWHMuRE_ao">Katatetori Kotegaeshi</a></li>
+			<li><a href="https://youtu.be/68dPf7vIpW8">Henka Waza, Kotegaeshi into Ikkyo</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>October 11, 2018</td>
 		<td><UL>
-			* [Ryotetori Kokyuho Backstretch](https://www.youtube.com/embed/5OpGXf6PbiM)
-			* [Ryotetori Iriminage, Shiho position variation](https://www.youtube.com/embed/j8JCccX-2_g)
-			* [Ryotetori Shiho position throw](https://www.youtube.com/embed/UBqS-Nk4im4)
-			* [Ryotetori Soto Kotegaeshi](https://www.youtube.com/embed/elVsbKSIIxE)
+			<li><a href="https://youtu.be/5OpGXf6PbiM">Ryotetori Kokyuho Backstretch</a></li>
+			<li><a href="https://youtu.be/j8JCccX-2_g">Ryotetori Iriminage, Shiho position variation</a></li>
+			<li><a href="https://youtu.be/UBqS-Nk4im4">Ryotetori Shiho position throw</a></li>
+			<li><a href="https://youtu.be/elVsbKSIIxE">Ryotetori Soto Kotegaeshi</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>October 18, 2018</td>
 		<td><UL>
-			* [Shomenuchi Kokyuho Backstretch](https://www.youtube.com/embed/4OKLIF6bbto)
-			* [Shomenuchi Iriminage](https://www.youtube.com/embed/SG6LFv3FTrs)
-			* [Shomenuchi Yonkkyo, Omote & Ura](https://www.youtube.com/embed/7RppDOkHSNc)
+			<li><a href="https://youtu.be/4OKLIF6bbto">Shomenuchi Kokyuho Backstretch</a></li>
+			<li><a href="https://youtu.be/SG6LFv3FTrs">Shomenuchi Iriminage</a></li>
+			<li><a href="https://youtu.be/7RppDOkHSNc">Shomenuchi Yonkkyo, Omote & Ura</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>October 25, 2018</td>
 		<td><UL>
-			* [Ushiro Tekubitori Kokyuho Backstretch](https://www.youtube.com/embed/pG7h4SPgtNQ)
-			* [Ushiro Tekubitori Shihonage, Omote & Ura](https://www.youtube.com/embed/aw5DJmNzUH4)
-			* [Ushiro Tekubitori Nikkyo](https://www.youtube.com/embed/9QFhK0avHSk)
+			<li><a href="https://youtu.be/pG7h4SPgtNQ">Ushiro Tekubitori Kokyuho Backstretch</a></li>
+			<li><a href="https://youtu.be/aw5DJmNzUH4">Ushiro Tekubitori Shihonage, Omote & Ura</a></li>
+			<li><a href="https://youtu.be/9QFhK0avHSk">Ushiro Tekubitori Nikkyo</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>November 1, 2018</td>
 		<td><UL>
-
-			* [Shomenuchi (slight) Tenkan, to set up Shihonage](https://www.youtube.com/embed/iadRru_iY2E)
-			* [Shomenuchi Shihonage](https://www.youtube.com/embed/3z-wOvGppS8)
-			* [Shomenuchi Shihonage Addendum](https://www.youtube.com/embed/andEvwYTP9k)
-			* [Shomenuchi Kotegaeshi](https://www.youtube.com/embed/Yn31AR4hF2k)
-			* [Shomenuchi Iriminage Omote & Ura](https://www.youtube.com/embed/MFyRWjHpioE)
+			<li><a href="https://youtu.be/iadRru_iY2E">Shomenuchi (slight) Tenkan, to set up Shihonage</a></li>
+			<li><a href="https://youtu.be/3z-wOvGppS8">Shomenuchi Shihonage</a></li>
+			<li><a href="https://youtu.be/andEvwYTP9k">Shomenuchi Shihonage Addendum</a></li>
+			<li><a href="https://youtu.be/Yn31AR4hF2k">Shomenuchi Kotegaeshi</a></li>
+			<li><a href="https://youtu.be/MFyRWjHpioE">Shomenuchi Iriminage Omote & Ura</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>November 29, 2018</td>
 		<td><UL>
-			* [Shomenuchi Kokyuho Backstretch](https://www.youtube.com/embed/qvPD6syy4tg)
-			* [Shomenuchi Shihonage, Omote & Ura](https://www.youtube.com/embed/ITnxIkWh8e4)
-			* [Shomenuchi Shihonage, Omote & Ura, Addendum](https://www.youtube.com/embed/6Yv7kZeScQs)
-			* [Shomenuchi Shihonage, starting with Ikkyo](https://www.youtube.com/embed/E6QO1c6Mkx0)
+			<li><a href="https://youtu.be/qvPD6syy4tg">Shomenuchi Kokyuho Backstretch</a></li>
+			<li><a href="https://youtu.be/ITnxIkWh8e4">Shomenuchi Shihonage, Omote & Ura</a></li>
+			<li><a href="https://youtu.be/6Yv7kZeScQs">Shomenuchi Shihonage, Omote & Ura, Addendum</a></li>
+			<li><a href="https://youtu.be/E6QO1c6Mkx0">Shomenuchi Shihonage, starting with Ikkyo</a></li>
 		</UL></td>
 	</tr>
-
 	<tr>
 		<td>January 10, 2019</td>
 		<td><UL>
-			* [Tsuki Kotegaeshi](https://www.youtube.com/embed/bC5TZ2FQfnY)
+			<li><a href="https://youtu.be/bC5TZ2FQfnY">Tsuki Kotegaeshi</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>January 17, 2019</td>
 		<td><UL>
-			* [Katatetori Tenkan, Tai no henko](https://www.youtube.com/embed/2-Txid32Ce4)
-			* [Katatetori Iriminage (Opening)](https://www.youtube.com/embed/UmGrGaaRblU)
-			* [Katatetori Iriminage](https://www.youtube.com/embed/13CdEiV5dhQ)
-			* [Katatetori Sankyo, Omote](https://www.youtube.com/embed/0vPx8w_J-hs)
-			* [Katatetori Sankyo, Omote, Addendum](https://www.youtube.com/embed/Oyvaan7_WgE)
+			<li><a href="https://youtu.be/2-Txid32Ce4">Katatetori Tenkan, Tai no henko</a></li>
+			<li><a href="https://youtu.be/UmGrGaaRblU">Katatetori Iriminage (Opening)</a></li>
+			<li><a href="https://youtu.be/13CdEiV5dhQ">Katatetori Iriminage</a></li>
+			<li><a href="https://youtu.be/0vPx8w_J-hs">Katatetori Sankyo, Omote</a></li>
+			<li><a href="https://youtu.be/Oyvaan7_WgE">Katatetori Sankyo, Omote, Addendum</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>January 24, 2019</td>
 		<td><UL>
-			* [Morotetori Kotegaeshi](https://www.youtube.com/embed/jDk-7WepSIY)
-			* [Morotetori Ikkyo Omote](https://www.youtube.com/embed/9vkMHWvITyk)
+			<li><a href="https://youtu.be/jDk-7WepSIY">Morotetori Kotegaeshi</a></li>
+			<li><a href="https://youtu.be/9vkMHWvITyk">Morotetori Ikkyo Omote</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>January 31, 2019</td>
 		<td><UL>
-			* [Katatetori Tenkan, Tai no henko](https://www.youtube.com/embed/YGRx6grdlVU)
-			* [Katatetori Tai no henko, from Hanmi Handachi](https://www.youtube.com/embed/Dz6FeLt0U9Y)
-			* [Hanmi Handachi Katatetori Shihonage,  Omote & Ura](https://www.youtube.com/embed/Edi0tG41I18)
-			* [Hanmi Handachi Katatetori Kaitennage, Uchi and Soto Mawari](https://www.youtube.com/embed/TZFK5NIR_lk)
-			* [Hanmi Handachi Katatetori Kaitennage, Addendum](https://www.youtube.com/embed/PZ4BDyeAV-Q)
-			* [Hanmi Handachi Katatetori Kokyuho](https://www.youtube.com/embed/lCD7FfX2v0U)
+			<li><a href="https://youtu.be/YGRx6grdlVU">Katatetori Tenkan, Tai no henko</a></li>
+			<li><a href="https://youtu.be/Dz6FeLt0U9Y">Katatetori Tai no henko, from Hanmi Handachi</a></li>
+			<li><a href="https://youtu.be/Edi0tG41I18">Hanmi Handachi Katatetori Shihonage,  Omote & Ura</a></li>
+			<li><a href="https://youtu.be/TZFK5NIR_lk">Hanmi Handachi Katatetori Kaitennage, Uchi and Soto Mawari</a></li>
+			<li><a href="https://youtu.be/PZ4BDyeAV-Q">Hanmi Handachi Katatetori Kaitennage, Addendum</a></li>
+			<li><a href="https://youtu.be/lCD7FfX2v0U">Hanmi Handachi Katatetori Kokyuho</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>Feb 7, 2019</td>
 		<td><UL>
-			* [Katamenuchi Irimi](https://www.youtube.com/embed/HT5Lcs3A7uE)
-			* [Katamenuchi Kotegaeshi](https://www.youtube.com/embed/9EP1AQONd7s)
-			* [Katamenuchi Kotegaeshi, Addendum](https://www.youtube.com/embed/LcZN0aIeo1o)
-			* [Katamenuchi Nikkyo Ura](https://www.youtube.com/embed/6RxV9DSW1tE)
-			* [Katamenuchi Shihonage](https://www.youtube.com/embed/xpXIimMNkQU)
+			<li><a href="https://youtu.be/HT5Lcs3A7uE">Katamenuchi Irimi</a></li>
+			<li><a href="https://youtu.be/9EP1AQONd7s">Katamenuchi Kotegaeshi</a></li>
+			<li><a href="https://youtu.be/LcZN0aIeo1o">Katamenuchi Kotegaeshi, Addendum</a></li>
+			<li><a href="https://youtu.be/6RxV9DSW1tE">Katamenuchi Nikkyo Ura</a></li>
+			<li><a href="https://youtu.be/xpXIimMNkQU">Katamenuchi Shihonage</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>Feb 14, 2019</td>
 		<td><UL>
-			* [Ryotetori Nikkyo, Omote & Ura](https://www.youtube.com/embed/IYwK15wSfLU)
-			* [Ryotetori ("double") Shihonage](https://www.youtube.com/embed/9btzw-8FdBY)
+			<li><a href="https://youtu.be/IYwK15wSfLU">Ryotetori Nikkyo, Omote & Ura</a></li>
+			<li><a href="https://youtu.be/9btzw-8FdBY">Ryotetori ("double") Shihonage</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>Feb 21, 2019</td>
 		<td><UL>
-			* [Yokomenuchi Irimi Kokyuho](https://www.youtube.com/embed/TV2SKy52O5I)
-			* [Yokomenuchi Iriminage](https://www.youtube.com/embed/UNAEPLfFejI)
-			* [Yokomenuchi Sumi-Otoshi](https://www.youtube.com/embed/11yf7OEivFM)
+			<li><a href="https://youtu.be/TV2SKy52O5I">Yokomenuchi Irimi Kokyuho</a></li>
+			<li><a href="https://youtu.be/UNAEPLfFejI">Yokomenuchi Iriminage</a></li>
+			<li><a href="https://youtu.be/11yf7OEivFM">Yokomenuchi Sumi-Otoshi</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>Feb 28, 2019</td>
 		<td><UL>
-			* [Morotetori Kokyuho Backstretch](https://www.youtube.com/embed/8tar7NF8bPo)
-			* [Morotetori Shihonage (1 of 2)](https://www.youtube.com/embed/-03IbJOoEE4)
-			* [Morotetori Shihonage (2 of 2)](https://www.youtube.com/embed/l7d5XEsP8cQ)
-			* [Morotetori Sankyo, Omote](https://www.youtube.com/embed/4LptKhkE2lk)
-			* [Morotetori Sankyo, Addendum](https://www.youtube.com/embed/roekMNjtz6c)
+			<li><a href="https://youtu.be/8tar7NF8bPo">Morotetori Kokyuho Backstretch</a></li>
+			<li><a href="https://youtu.be/-03IbJOoEE4">Morotetori Shihonage (1 of 2)</a></li>
+			<li><a href="https://youtu.be/l7d5XEsP8cQ">Morotetori Shihonage (2 of 2)</a></li>
+			<li><a href="https://youtu.be/4LptKhkE2lk">Morotetori Sankyo, Omote</a></li>
+			<li><a href="https://youtu.be/roekMNjtz6c">Morotetori Sankyo, Addendum</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>March 7, 2019</td>
 		<td><UL>
-			* [Tsuki Kokyuho Backstretch](https://www.youtube.com/embed/V4ugsLPs4M0)
-			* [Tsuki Iriminage](https://www.youtube.com/embed/GXlPSTIlTEY)
-			* [Tsuki Kaitennage](https://www.youtube.com/embed/mpxM_Rci0LA)
-			* [Kokyudosa](https://www.youtube.com/embed/Aws7anOnfWE)
+			<li><a href="https://youtu.be/V4ugsLPs4M0">Tsuki Kokyuho Backstretch</a></li>
+			<li><a href="https://youtu.be/GXlPSTIlTEY">Tsuki Iriminage</a></li>
+			<li><a href="https://youtu.be/mpxM_Rci0LA">Tsuki Kaitennage</a></li>
+			<li><a href="https://youtu.be/Aws7anOnfWE">Kokyudosa</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>March 14, 2019</td>
 		<td><UL>
-			* [Katamenuchi Irimi](https://www.youtube.com/embed/yMUwIp4GwZk)
-			* [Katamenuchi Ikkyo Omote](https://www.youtube.com/embed/n18zBaloMoY)
-			* [Katamenuchi Hijikime](https://www.youtube.com/embed/ASmiB30LBC4)
-			* [Katamenuchi Jujinage](https://www.youtube.com/embed/6m5lAeQdBtE)
+			<li><a href="https://youtu.be/yMUwIp4GwZk">Katamenuchi Irimi</a></li>
+			<li><a href="https://youtu.be/n18zBaloMoY">Katamenuchi Ikkyo Omote</a></li>
+			<li><a href="https://youtu.be/ASmiB30LBC4">Katamenuchi Hijikime</a></li>
+			<li><a href="https://youtu.be/6m5lAeQdBtE">Katamenuchi Jujinage</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>March 21, 2019</td>
 		<td><UL>
-			* [Morotetori Kokyuho Backstretch](https://www.youtube.com/embed/DxE7_PcF5EI)
-			* [Morotetori Kokyunage](https://www.youtube.com/embed/xHIBBFp-KUg)
-			* [Morotetori Ikkyo Omote](https://www.youtube.com/embed/g7yhgbQZBdQ)
-			* [Morotetori Makiotoshi](https://www.youtube.com/embed/Of2IC0xI07A)
+			<li><a href="https://youtu.be/DxE7_PcF5EI">Morotetori Kokyuho Backstretch</a></li>
+			<li><a href="https://youtu.be/xHIBBFp-KUg">Morotetori Kokyunage</a></li>
+			<li><a href="https://youtu.be/g7yhgbQZBdQ">Morotetori Ikkyo Omote</a></li>
+			<li><a href="https://youtu.be/Of2IC0xI07A">Morotetori Makiotoshi</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>April 4, 2019</td>
 		<td><UL>
-			* [Kaiten Opening, Ryokatadori](https://www.youtube.com/embed/2J---80QAz8)
-			* [Ryokatadori Nikkyo Omote](https://www.youtube.com/embed/M-pLhG4PLK8)
-			* [Ryokatadori Nikkyo Omote Addendum](https://www.youtube.com/embed/nnlOvQgYus0)
-			* [Ryokatadori, "Look-Ma-No-Hands" Shihonage](https://www.youtube.com/embed/VL71gEdFcRI)
-			* [Randori Prep, with Taisabaki (body movement) options	](https://www.youtube.com/embed/URRHlAZF5CA)
+			<li><a href="https://youtu.be/2J---80QAz8">Kaiten Opening, Ryokatadori</a></li>
+			<li><a href="https://youtu.be/M-pLhG4PLK8">Ryokatadori Nikkyo Omote</a></li>
+			<li><a href="https://youtu.be/nnlOvQgYus0">Ryokatadori Nikkyo Omote Addendum</a></li>
+			<li><a href="https://youtu.be/VL71gEdFcRI">Ryokatadori, "Look-Ma-No-Hands" Shihonage</a></li>
+			<li><a href="https://youtu.be/URRHlAZF5CA">Randori Prep, with Taisabaki (body movement) options	</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>April 11, 2019</td>
 		<td><UL>
-			* [Katatetori Tenkan, Tai no henko](https://www.youtube.com/embed/BWCVe8AZZ_Q)
-			* [Shomenuchi Iriminage Variation](https://www.youtube.com/embed/rX7pDmSPdSI)
-			* [Shomenuchi Kaitennage](https://www.youtube.com/embed/ac2poL6d1pA)
+			<li><a href="https://youtu.be/BWCVe8AZZ_Q">Katatetori Tenkan, Tai no henko</a></li>
+			<li><a href="https://youtu.be/rX7pDmSPdSI">Shomenuchi Iriminage Variation</a></li>
+			<li><a href="https://youtu.be/ac2poL6d1pA">Shomenuchi Kaitennage</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>April 25, 2019</font> </td>
 		<td><UL>
-			* [Ai-hanmi Katatetori (cross-hand) Iriminage](https://www.youtube.com/embed/MgIeiZrGfcM)
-			* [Ai-hanmi Katatetori (cross-hand) Sankyo, Omote & Ura](https://www.youtube.com/embed/CT9jkzVsQmo)
+			<li><a href="https://youtu.be/MgIeiZrGfcM">Ai-hanmi Katatetori (cross-hand) Iriminage</a></li>
+			<li><a href="https://youtu.be/CT9jkzVsQmo">Ai-hanmi Katatetori (cross-hand) Sankyo, Omote & Ura</a></li>
 		</UL></td>
-	</tr
+	</tr>
 	<tr>
 		<td>May 9, 2019</font> </td>
 		<td><UL>
-			* [Ushiro Tekubitori Kokyuho Backstretch](https://www.youtube.com/embed/0VsXEID2Wqw)
-			* [Ushiro Tekubitori Kotegaeshi](https://www.youtube.com/embed/dRY3NHMRF4o)
-			* [Ushiro Tekubitori Kotegaeshi Variation](https://www.youtube.com/embed/wdfyTXWdT9w)
-			* [Ushiro Tekubitori Kokyuho](https://www.youtube.com/embed/4DEqopCUf6o)
+			<li><a href="https://youtu.be/0VsXEID2Wqw">Ushiro Tekubitori Kokyuho Backstretch</a></li>
+			<li><a href="https://youtu.be/dRY3NHMRF4o">Ushiro Tekubitori Kotegaeshi</a></li>
+			<li><a href="https://youtu.be/wdfyTXWdT9w">Ushiro Tekubitori Kotegaeshi Variation</a></li>
+			<li><a href="https://youtu.be/4DEqopCUf6o">Ushiro Tekubitori Kokyuho</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>May 16, 2019</font> </td>
 		<td><UL>
-			* [Shomenuchi Kokyuho Backstretch](https://www.youtube.com/embed/o7PDmaqV3NU)
-			* [Shomenuchi Iriminage (3 variations)](https://www.youtube.com/embed/_CN4X03AE3M)
-			* [Shomenuchi Nikkyo, Omote & Ura](https://www.youtube.com/embed/nk80ysgL0Y8)
+			<li><a href="https://youtu.be/o7PDmaqV3NU">Shomenuchi Kokyuho Backstretch</a></li>
+			<li><a href="https://youtu.be/_CN4X03AE3M">Shomenuchi Iriminage (3 variations)</a></li>
+			<li><a href="https://youtu.be/nk80ysgL0Y8">Shomenuchi Nikkyo, Omote & Ura</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>May 30, 2019</font> </td>
 		<td><UL>
-			* [Ushiro Kubishime Backstretch](https://www.youtube.com/embed/HmN05m3TKS8)
-			* [Ushiro Kubishime Kotegaeshi](https://www.youtube.com/embed/Y_qdkWjihHw)
-			* [Ushiro Kubishime Sankyo Ura	](https://www.youtube.com/embed/U553lIn5ce8)
-			* [Ushiro Kubishime Iriminage](https://www.youtube.com/embed/1L6cpPtKXVM)
+			<li><a href="https://youtu.be/HmN05m3TKS8">Ushiro Kubishime Backstretch</a></li>
+			<li><a href="https://youtu.be/Y_qdkWjihHw">Ushiro Kubishime Kotegaeshi</a></li>
+			<li><a href="https://youtu.be/U553lIn5ce8">Ushiro Kubishime Sankyo Ura	</a></li>
+			<li><a href="https://youtu.be/1L6cpPtKXVM">Ushiro Kubishime Iriminage</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>June 6, 2019</font> </td>
 		<td><UL>
-			* [Ryotetori Tenshi Backstretch](https://www.youtube.com/embed/JBnNs7oruWs)
-			* [Ryotetori Iriminage](https://www.youtube.com/embed/gh7iuEurdNk)
-			* [Ryotetori Double Nikkyo](https://www.youtube.com/embed/GXyBoQmgatE)
+			<li><a href="https://youtu.be/JBnNs7oruWs">Ryotetori Tenshi Backstretch</a></li>
+			<li><a href="https://youtu.be/gh7iuEurdNk">Ryotetori Iriminage</a></li>
+			<li><a href="https://youtu.be/GXyBoQmgatE">Ryotetori Double Nikkyo</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>June 13, 2019</font> </td>
 		<td><UL>
-			* [Yokomenuchi Irimi](https://www.youtube.com/embed/vNOFuBThGRY)
-			* [Yokomenuchi Kotegaeshi](https://www.youtube.com/embed/UsCDNZeoZ3A)
-			* [Yokomenuchi Kotegaeshi Addendum](https://www.youtube.com/embed/8qgUrmCF_cc)
-			* [Yokomenuchi Ikkyo, Omote & Ura](https://www.youtube.com/embed/iCwg9IFZLts)
-			* [Yokomenuchi Kaitennage](https://www.youtube.com/embed/rs-Vy1jlt4g)
+			<li><a href="https://youtu.be/vNOFuBThGRY">Yokomenuchi Irimi</a></li>
+			<li><a href="https://youtu.be/UsCDNZeoZ3A">Yokomenuchi Kotegaeshi</a></li>
+			<li><a href="https://youtu.be/8qgUrmCF_cc">Yokomenuchi Kotegaeshi Addendum</a></li>
+			<li><a href="https://youtu.be/iCwg9IFZLts">Yokomenuchi Ikkyo, Omote & Ura</a></li>
+			<li><a href="https://youtu.be/rs-Vy1jlt4g">Yokomenuchi Kaitennage</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>June 27, 2019</font> </td>
 		<td><UL>
-			* [Yokomenuchi Irimi Backstretch](https://www.youtube.com/embed/YXVkzaA1Iik)
-			* [Yokomenuchi Kotegaeshi](https://www.youtube.com/embed/6l7yEJHSoWc)
-			* [Yokomenuchi Tanto tori](https://www.youtube.com/embed/C8s1OAvM0qo)
+			<li><a href="https://youtu.be/YXVkzaA1Iik">Yokomenuchi Irimi Backstretch</a></li>
+			<li><a href="https://youtu.be/6l7yEJHSoWc">Yokomenuchi Kotegaeshi</a></li>
+			<li><a href="https://youtu.be/C8s1OAvM0qo">Yokomenuchi Tanto tori</a></li>
 		</UL></td>
 	</tr>
-
 	<tr>
 		<td>July 11, 2019</td>
 		<td><UL>
-			* [Ushiro Tekubitori Kotegaeshi](https://www.youtube.com/embed/eLRhLhK5HTU)
-			* [Ushiro Tekubitori Sankyo, Omote & Ura](https://www.youtube.com/embed/OsxPOV2JY44)
+			<li><a href="https://youtu.be/eLRhLhK5HTU">Ushiro Tekubitori Kotegaeshi</a></li>
+			<li><a href="https://youtu.be/OsxPOV2JY44">Ushiro Tekubitori Sankyo, Omote & Ura</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>July 18, 2019</td>
 		<td><UL>
-			* [Katatetori Tenkan, Tai no henko](https://www.youtube.com/embed/E8PqLQcwlok)
-			* [Morotetori Kokyuho](https://www.youtube.com/embed/Zy4khhusv-4)
-			* [Morotetori Kokyuho Addendum](https://www.youtube.com/embed/4Sn08HgxUTs)
-			* [Morotetori Nikkyo, Omote & Ura](https://www.youtube.com/embed/8z3IGLbJ6L0)
-			* [Morotetori Nikkyo Addendum](https://www.youtube.com/embed/mL-DtqvNn8U)
+			<li><a href="https://youtu.be/E8PqLQcwlok">Katatetori Tenkan, Tai no henko</a></li>
+			<li><a href="https://youtu.be/Zy4khhusv-4">Morotetori Kokyuho</a></li>
+			<li><a href="https://youtu.be/4Sn08HgxUTs">Morotetori Kokyuho Addendum</a></li>
+			<li><a href="https://youtu.be/8z3IGLbJ6L0">Morotetori Nikkyo, Omote & Ura</a></li>
+			<li><a href="https://youtu.be/mL-DtqvNn8U">Morotetori Nikkyo Addendum</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>July 25, 2019</td>
 		<td><UL>
-			* [Katatetori Tenkan, Tai no henko](https://www.youtube.com/embed/qZGhOcrsJ4A)
-			* [Swari-Waza Shomenuchi Ikkyo](https://www.youtube.com/embed/7wKQFACULiw)
-			* [Swari-Waza Shomenuchi Iriminage](https://www.youtube.com/embed/nbTkLodrnhQ)
-			* [Shomenuchi Kotegaeshi](https://www.youtube.com/embed/6G_IHtcnNk8)
+			<li><a href="https://youtu.be/qZGhOcrsJ4A">Katatetori Tenkan, Tai no henko</a></li>
+			<li><a href="https://youtu.be/7wKQFACULiw">Swari-Waza Shomenuchi Ikkyo</a></li>
+			<li><a href="https://youtu.be/nbTkLodrnhQ">Swari-Waza Shomenuchi Iriminage</a></li>
+			<li><a href="https://youtu.be/6G_IHtcnNk8">Shomenuchi Kotegaeshi</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>August 8, 2019</td>
 		<td><UL>
-			* [Katatetori Tenkan](https://www.youtube.com/embed/0hNdNI515BE)
-			* [Morotetori Kokyunage](https://www.youtube.com/embed/8CsfMpzQytw)
-			* [Morotetori Jiyu Waza](https://www.youtube.com/embed/Uf6bxum12cs)
+			<li><a href="https://youtu.be/0hNdNI515BE">Katatetori Tenkan</a></li>
+			<li><a href="https://youtu.be/8CsfMpzQytw">Morotetori Kokyunage</a></li>
+			<li><a href="https://youtu.be/Uf6bxum12cs">Morotetori Jiyu Waza</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>September 5, 2019</td>
 		<td><UL>
-			* [Ryotetori Shihonage](https://www.youtube.com/embed/OBphPz6xN3U)
-			* [Ryotetori "Double" Shihonage](https://www.youtube.com/embed/0WysS2KYJXY)
-			* [Ryotetori Iriminage](https://www.youtube.com/embed/CBYZuaLWaLY)
+			<li><a href="https://youtu.be/OBphPz6xN3U">Ryotetori Shihonage</a></li>
+			<li><a href="https://youtu.be/0WysS2KYJXY">Ryotetori "Double" Shihonage</a></li>
+			<li><a href="https://youtu.be/CBYZuaLWaLY">Ryotetori Iriminage</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>October 3, 2019</td>
 		<td><UL>
-			* [Swari-Waza Shomenuchi Sankyo, Omote & Ura](https://www.youtube.com/embed/m5YrSQqE9rM)
-			* [Swari-Waza Shomenuchi Sankyo Addendum](https://www.youtube.com/embed/-d1kAtlZi0Q)
-			* [Swari-Waza Shomenuchi Yonkyo, Omote & Ura](https://www.youtube.com/embed/tGvbNfMkaU4)
+			<li><a href="https://youtu.be/m5YrSQqE9rM">Swari-Waza Shomenuchi Sankyo, Omote & Ura</a></li>
+			<li><a href="https://youtu.be/-d1kAtlZi0Q">Swari-Waza Shomenuchi Sankyo Addendum</a></li>
+			<li><a href="https://youtu.be/tGvbNfMkaU4">Swari-Waza Shomenuchi Yonkyo, Omote & Ura</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>October 10, 2019</td>
 		<td><UL>
-			* [Ushiro Tekubitori](https://www.youtube.com/embed/nUBcg0UJeFI)
-			* [Ushiro Tekubitori Kokyuho](https://www.youtube.com/embed/ToeoehmnaKI)
-			* [Ushiro Tekubitori Kotegaeshi](https://www.youtube.com/embed/5LBk8RWVJ6I)
-			* [Ushiro Tekubitori Jujinage](https://www.youtube.com/embed/2gHNyF4Eofw)
+			<li><a href="https://youtu.be/nUBcg0UJeFI">Ushiro Tekubitori</a></li>
+			<li><a href="https://youtu.be/ToeoehmnaKI">Ushiro Tekubitori Kokyuho</a></li>
+			<li><a href="https://youtu.be/5LBk8RWVJ6I">Ushiro Tekubitori Kotegaeshi</a></li>
+			<li><a href="https://youtu.be/2gHNyF4Eofw">Ushiro Tekubitori Jujinage</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>October 17, 2019</td>
 		<td><UL>
-			* [Tsuki Kokyuho Backstretch](https://www.youtube.com/embed/rdVq47hY0OQ)
-			* [Tsuki Iriminage](https://www.youtube.com/embed/3HLDV588EpE)
-			* [Tsuki Kotegaeshi](https://www.youtube.com/embed/DfvUZ-IcmDQ)
-			* [Tsuki Kaitenage](https://www.youtube.com/embed/HrbQVNRKBZ4)
+			<li><a href="https://youtu.be/rdVq47hY0OQ">Tsuki Kokyuho Backstretch</a></li>
+			<li><a href="https://youtu.be/3HLDV588EpE">Tsuki Iriminage</a></li>
+			<li><a href="https://youtu.be/DfvUZ-IcmDQ">Tsuki Kotegaeshi</a></li>
+			<li><a href="https://youtu.be/HrbQVNRKBZ4">Tsuki Kaitenage</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>November 7, 2019</td>
 		<td><UL>
-			* [Yokomenuchi Kokyuho](https://www.youtube.com/embed/8miiznXJhk8)
-			* [Yokomenuchi Kokyuho (kaiten, with ura movement)](https://www.youtube.com/embed/GawA3Q5DRJA)
-			* [Yokomenuchi Kokyuho (kaiten, with omote entry)](https://www.youtube.com/embed/Baz4rkvNr5Y)
-			* [Yokomenuchi Kokyuho (omote entry with irimi tenkan)](https://www.youtube.com/embed/zrzf9TkAG1Q)
+			<li><a href="https://youtu.be/8miiznXJhk8">Yokomenuchi Kokyuho</a></li>
+			<li><a href="https://youtu.be/GawA3Q5DRJA">Yokomenuchi Kokyuho (kaiten, with ura movement)</a></li>
+			<li><a href="https://youtu.be/Baz4rkvNr5Y">Yokomenuchi Kokyuho (kaiten, with omote entry)</a></li>
+			<li><a href="https://youtu.be/zrzf9TkAG1Q">Yokomenuchi Kokyuho (omote entry with irimi tenkan)</a></li>
 		</UL></td>
 	</tr>
 	<tr>
 		<td>November 21, 2019</td>
 		<td><UL>
-			* [Katatetori Tenkan, Tai no henko](https://www.youtube.com/embed/HdqboangmSM)
-			* [Yokomenuchi Iriminage](https://www.youtube.com/embed/gp855_urdTE)
-			* [Yokomenuchi Iriminage (gedan irimi entry with dual atemi-waza)](https://www.youtube.com/embed/sqqRCWHSJeI)
-			* [Tanto-tori, Yokomenuchi Gokkyo](https://www.youtube.com/embed/WIGq3lEBw6g)
+			<li><a href="https://youtu.be/HdqboangmSM">Katatetori Tenkan, Tai no henko</a></li>
+			<li><a href="https://youtu.be/gp855_urdTE">Yokomenuchi Iriminage</a></li>
+			<li><a href="https://youtu.be/sqqRCWHSJeI">Yokomenuchi Iriminage (gedan irimi entry with dual atemi-waza)</a></li>
+			<li><a href="https://youtu.be/WIGq3lEBw6g">Tanto-tori, Yokomenuchi Gokkyo</a></li>
 		</UL></td>
 	</tr>
 </table>
