@@ -6,7 +6,7 @@ subtitle: Aikido of Red Bank
 full-width: true
 ---
 
-The Children's Program at Aikido of Red Bank teaches your child to roll and fall safely, breathe more effectively, relax, respond appropriately to a bully and to feel better about themselves and others.
+[Read more about our children's program]({{ 'children' | relative_url }})
 
 The classes are conducted in a safe, friendly atmosphere that allows children to develop at their own pace.
 Aikido of Red Bank has 3 regularly-scheduled Aikido classes for Children (6-12) per week:
