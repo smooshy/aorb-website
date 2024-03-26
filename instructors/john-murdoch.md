@@ -13,7 +13,7 @@ John holds the rank of sandan (3rd degree black belt) in Aikido. He began practi
 
 He has been studying Kuntaw Kali Kruzada since 2012 under Maestro Rich Acosta who instructs at Aikido of Red Bank and currently trains several times a week in this martial art system.
 
-John has also been training in Brazilian Jujitsu since November 2017. As of 2019, he holds the rank of blue belt in this art .
+John has also been training in Brazilian Jujitsu since November 2017. As of 2019, he holds the rank of blue belt in this art.
 
 Moreover, John is a devoted practitioner of internal arts under his teacher Jaime Morrell and has attended several seminars held by Dan Harden since 2016.
 
