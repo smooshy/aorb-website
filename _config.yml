@@ -19,14 +19,17 @@ theme: beautiful-jekyll-theme
 ###############################################
 
 navbar-links:
+  About:
+    - Our Dojo: "about"
+    - Adults: "adults"
+    - Children: "children"
+  Get Started: "getstarted"
   Schedule:
     - Full Schedule: "schedule"
     - Beginner Aikido: "schedule/beginner"
     - Children's Aikido: "schedule/children"
     - Events: "events"
     - Calendar: "calendar"
-  About: "about"
-  Get Started: "getstarted"
   Instructors: "instructors"
   Media: "media"
 
